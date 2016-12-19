@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-12-17T11:25:05Z" product-name="functestexmpl">
+		<header/>
+		<body>
+			<trans-unit id="device_id.description">
+				<source>deviceId</source>
+			</trans-unit>
+			<trans-unit id="interventions.description">
+				<source>interventions</source>
+			</trans-unit>
+			<trans-unit id="operating_times.description">
+				<source>operatingTimes</source>
+			</trans-unit>
+			<trans-unit id="location.description">
+				<source>location</source>
+			</trans-unit>
+			<trans-unit id="software.description">
+				<source>software</source>
+			</trans-unit>
+			<trans-unit id="hardware.description">
+				<source>hardware</source>
+			</trans-unit>
+			<trans-unit id="licenses.description">
+				<source>licenses</source>
+			</trans-unit>
+			<trans-unit id="company.description">
+				<source>company</source>
+			</trans-unit>
+			<trans-unit id="configuration.description">
+				<source>configuration</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

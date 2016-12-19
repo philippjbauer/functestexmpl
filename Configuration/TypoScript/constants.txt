@@ -1,0 +1,15 @@
+
+plugin.tx_functestexmpl {
+	view {
+		# cat=plugin.tx_functestexmpl/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:functestexmpl/Resources/Private/Templates/
+		# cat=plugin.tx_functestexmpl/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:functestexmpl/Resources/Private/Partials/
+		# cat=plugin.tx_functestexmpl/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:functestexmpl/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_functestexmpl//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}

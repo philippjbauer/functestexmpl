@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-12-17T11:25:05Z" product-name="functestexmpl">
+		<header/>
+		<body>
+			<trans-unit id="tx_functestexmpl_domain_model_device">
+				<source>Device</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_device.device_id">
+				<source>Device Id</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_device.interventions">
+				<source>Interventions</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_device.operating_times">
+				<source>Operating Times</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_device.location">
+				<source>Location</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_device.software">
+				<source>Software</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_device.hardware">
+				<source>Hardware</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_device.licenses">
+				<source>Licenses</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_device.company">
+				<source>Company</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_device.configuration">
+				<source>Configuration</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_company">
+				<source>Company</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_company.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_company.email">
+				<source>Email</source>
+			</trans-unit>
+			<trans-unit id="tx_functestexmpl_domain_model_company.frontend_users">
+				<source>Frontend Users</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

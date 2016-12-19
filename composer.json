@@ -1,0 +1,27 @@
+{
+	"name": "philippbauer/functestexmpl",
+	"type": "typo3-cms-extension",
+	"description": "",
+	"authors": [
+		{
+			"name": "Philipp Bauer",
+			"email": "hello@philippbauer.org",
+			"homepage": "http://www.philippbauer.org",
+			"role": "Developer"
+		}
+	],
+    "require-dev": {
+        "phpunit/phpunit": "^5.7",
+		"mikey179/vfsStream": "^1.6"
+    },
+	"autoload": {
+		"psr-4": {
+			"PhilippBauer\\Functestexmpl\\": "Classes"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"PhilippBauer\\Functestexmpl\\Tests\\": "Tests"
+		}
+	},
+}

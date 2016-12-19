@@ -1,0 +1,17 @@
+<phpunit
+    bootstrap="../../../../../typo3/sysext/core/Build/FunctionalTestsBootstrap.php"
+	colors="true"
+	processIsolation="true"
+>
+	<testsuites>
+		<testsuite name="all">
+			<directory>../Functional/</directory>
+		</testsuite>
+		<testsuite name="controller">
+			<directory>../Functional/Controller/</directory>
+		</testsuite>
+		<testsuite name="domain">
+			<directory>../Functional/Domain/</directory>
+		</testsuite>
+	</testsuites>
+</phpunit>

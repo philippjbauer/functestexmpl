@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<dataset>
+	<tx_functestexmpl_domain_model_company>
+		<uid>1</uid>
+		<pid>1</pid>
+		<name>ACME Inc.</name>
+		<email>hello@philippbauer.org</email>
+		<frontend_users>1</frontend_users>
+	</tx_functestexmpl_domain_model_company>
+	<tx_functestexmpl_domain_model_company>
+		<uid>2</uid>
+		<pid>1</pid>
+		<name>TEST LLC</name>
+		<email>hello@example.com</email>
+		<frontend_users>1</frontend_users>
+	</tx_functestexmpl_domain_model_company>
+</dataset>
